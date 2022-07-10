@@ -8,7 +8,7 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used (Link for details)
-* HTML 5 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/master/learnedHTML.md)
+* HTML 5 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
 * CSS [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
 * JavaScript [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 <!-- 
