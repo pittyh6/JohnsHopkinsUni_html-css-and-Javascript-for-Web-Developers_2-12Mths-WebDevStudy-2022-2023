@@ -6,18 +6,15 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used 
-### HTML
-* Hyper Text Markup Language
-    * Annotates content
-    * defines document structure
-    * right and wrong syntax
-    * 3 core web technologies
-        * HTML, CSS, JavaScript
-    * 
+### Resources
+* learning
+    * gitBook: https://git-scm.com/book/en/v2
+    * css-trick: https://css-tricks.com/
 
-
-
-
+* Resources for Asking Questions
+    * stackoverflow: https://stackoverflow.com/
+    * jsfiddle: https://jsfiddle.net/
+    * codePen: https://codepen.io/
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)

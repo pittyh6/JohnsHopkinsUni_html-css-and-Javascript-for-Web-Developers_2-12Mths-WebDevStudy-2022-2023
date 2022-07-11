@@ -7,6 +7,10 @@
 
 ## What I learned/used 
 ### CSS 
+* Cascading Style Sheets (CSS) 
+    * style of the site
+
+
 
 
 

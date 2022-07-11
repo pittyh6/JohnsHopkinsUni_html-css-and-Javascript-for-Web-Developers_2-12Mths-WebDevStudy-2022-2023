@@ -7,6 +7,9 @@
 
 ## What I learned/used 
 ### JavaScript 
+* JavaScript
+    * behavior
+        * add functionality to the page
 
 
 
