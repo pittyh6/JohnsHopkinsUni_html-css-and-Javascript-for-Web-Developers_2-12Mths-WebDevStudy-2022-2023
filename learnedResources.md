@@ -11,6 +11,7 @@
     * gitBook: https://git-scm.com/book/en/v2
     * css-trick: https://css-tricks.com/
     * W3C HTML 5: https://www.w3.org/
+    * w3c types of content: https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html
 
 * Resources for Asking Questions
     * stackoverflow: https://stackoverflow.com/

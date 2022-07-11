@@ -20,7 +20,9 @@
         * attributes
             * id="myId" // unique
             * class="myId" //not unique
-
+    * content Models
+        * block-level Elements / flow content
+        * Inline Elements / Phrasing content
 
 
 
