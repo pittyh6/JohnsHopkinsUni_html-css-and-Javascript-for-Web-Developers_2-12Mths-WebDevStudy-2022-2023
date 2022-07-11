@@ -6,7 +6,7 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used 
-### JavaScript 
+### Git & GitHub 
 
 
 

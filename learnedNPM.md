@@ -8,6 +8,10 @@
 ## What I learned/used 
 ### NPM 
 * NPM
+    * browser sync
+        * npm install -g browser-sync
+        * run browser-sync
+            * browser-sync start --server --directory --files "*"
    
 
 ![End Banner](/Documentation/botton-1200x350.gif)
