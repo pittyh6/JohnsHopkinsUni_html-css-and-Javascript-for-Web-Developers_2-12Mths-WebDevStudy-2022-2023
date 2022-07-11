@@ -14,7 +14,7 @@
     * 3 core web technologies
         * HTML, CSS, JavaScript
     * HTML History
-    * tags 
+    * tags Anatomy
         * open and close <p></p>
         * only open tag <br> <hr> self closing tag
         * attributes
