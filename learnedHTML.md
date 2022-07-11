@@ -13,7 +13,8 @@
     * right and wrong syntax
     * 3 core web technologies
         * HTML, CSS, JavaScript
-    * 
+    * HTML History
+
 
 
 
