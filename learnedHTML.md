@@ -14,6 +14,12 @@
     * 3 core web technologies
         * HTML, CSS, JavaScript
     * HTML History
+    * tags 
+        * open and close <p></p>
+        * only open tag <br> <hr> self closing tag
+        * attributes
+            * id="myId" // unique
+            * class="myId" //not unique
 
 
 
