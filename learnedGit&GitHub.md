@@ -7,6 +7,17 @@
 
 ## What I learned/used 
 ### Git & GitHub 
+* Git & GitHub 
+    * git book: https://git-scm.com/book/en/v2
+    * repository
+        * create
+    * commands
+        * git status
+        * git add .
+        * git commit -m "comment text explaining what you did"
+        * git push origin nameBranch
+            * git push origin master`
+        
 
 
 
