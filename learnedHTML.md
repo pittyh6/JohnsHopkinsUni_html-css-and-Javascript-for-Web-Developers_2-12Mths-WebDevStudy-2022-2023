@@ -23,7 +23,9 @@
     * content Models
         * block-level Elements / flow content
         * Inline Elements / Phrasing content
-
+    * Semantic tags
+        * h1 - h6 -> <h1> is the most important and <h6> is the least important
+        * //semantic elements do allow you formore meaningful expression of the structure of your HTML code, HTML page,but they don't really give you any more functionality than a regular div orregular span would without it
 
 
 
