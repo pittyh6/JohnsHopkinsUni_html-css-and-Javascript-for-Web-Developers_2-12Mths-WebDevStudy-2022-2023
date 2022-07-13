@@ -25,10 +25,16 @@
         * Inline Elements / Phrasing content
     * Semantic tags
         * h1 - h6 -> <h1> is the most important and <h6> is the least important
-        * //semantic elements do allow you formore meaningful expression of the structure of your HTML code, HTML page,but they don't really give you any more functionality than a regular div orregular span would without it
-
-
-
+        * //semantic elements do allow you for more meaningful expression of the structure of your HTML code, HTML page,but they don't really give you any more functionality than a regular div or regular span would without it
+    * Lists
+        * ul = unordered list
+        * ol = ordered list
+        * li = list Item
+    * HTML Character Entity References
+        * instead of < use &lt;
+        * instead of > use &gt;
+        * instead of & use &amp;
+        
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
