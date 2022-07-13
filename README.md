@@ -19,7 +19,8 @@
 * JavaScript ES6/ES2015 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedES6-ES2015.md)
 -->
 ## Project + Result
-* (HTML 1) - Introduction to HTML 5 [link]()
+* (Week One) - HTML - Introduction to HTML5 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
+* (Week Two) - CSS - Introduction to CSS3 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
 
 
 ## Previous Project
