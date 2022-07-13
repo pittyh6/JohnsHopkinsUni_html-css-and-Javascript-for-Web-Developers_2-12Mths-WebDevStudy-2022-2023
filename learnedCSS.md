@@ -12,8 +12,14 @@
     * Anatomy
         * selector{property: value;}
             *  p{color: red;}
-
-
+    * Element select
+        * element (tag)
+        * Class (.className)
+        * Id (#idName)
+        * grouping selectors (use , to separate selectors)
+            * element, .class, #id
+            
+    
 
 
 
