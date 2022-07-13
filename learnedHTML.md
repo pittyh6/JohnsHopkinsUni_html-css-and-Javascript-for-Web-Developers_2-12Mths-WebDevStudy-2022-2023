@@ -37,7 +37,14 @@
         * &copy; copyright
         * &nbsp; no space between the words
         * &quot; " for use quotes "
-
+    * Creating Links        
+        * internal links
+            * <a href:"blabla.html"> //a tag is a inline and block line element
+            * section
+                <a href="#idName">
+        * external links
+            <a href:"http://blabla.com">
+            * target = "_blank" //open in a new window 
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
