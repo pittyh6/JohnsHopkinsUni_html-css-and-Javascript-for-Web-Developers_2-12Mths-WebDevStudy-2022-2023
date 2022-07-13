@@ -34,7 +34,10 @@
         * instead of < use &lt;
         * instead of > use &gt;
         * instead of & use &amp;
-        
+        * &copy; copyright
+        * &nbsp; no space between the words
+        * &quot; " for use quotes "
+
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
