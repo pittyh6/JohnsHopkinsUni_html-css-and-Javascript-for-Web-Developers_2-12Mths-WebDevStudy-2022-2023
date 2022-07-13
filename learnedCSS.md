@@ -9,6 +9,9 @@
 ### CSS 
 * Cascading Style Sheets (CSS) 
     * style of the site
+    * Anatomy
+        * selector{property: value;}
+            *  p{color: red;}
 
 
 
