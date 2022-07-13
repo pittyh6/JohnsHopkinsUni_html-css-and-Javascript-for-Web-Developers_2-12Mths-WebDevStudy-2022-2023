@@ -45,6 +45,12 @@
         * external links
             <a href:"http://blabla.com">
             * target = "_blank" //open in a new window 
-
+    * Comments
+        * <!-- --> 
+    * Images
+        * internal img
+            * <img src="blabla.jpg">
+        * external img
+            * <img src="http:blabla.com">
 
 ![End Banner](/Documentation/botton-1200x350.gif)
