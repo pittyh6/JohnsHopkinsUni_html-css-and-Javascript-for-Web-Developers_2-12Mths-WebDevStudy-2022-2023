@@ -40,7 +40,22 @@
             * section > h2
         * all li elements that are inside a section element
             * section li
-        
+    * Pseudo-Class Selectors
+        * element:pseudo-className
+            * a:link, a:visited{}
+            * a:hover, a:active{}
+            * :link
+            * :visited
+            * :hover
+            * :active //click but not released
+            * :nth-child()
+                * :nth-child(numberOfPlaceElementIs)
+                    * :nth-child(2)
+                    * :nth-child(odd)
+                    * :nth-child(even)
+            * Combining pseudo-element
+                * div:nth-child(4):hover{}
+            
     
 
 
