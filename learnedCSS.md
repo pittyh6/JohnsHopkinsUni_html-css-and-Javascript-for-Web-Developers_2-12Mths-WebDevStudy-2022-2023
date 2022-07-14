@@ -60,7 +60,18 @@
         * internal
         * external
             * < link rel="stylesheet" href="">
-            
+    * Conflict Resolution
+        * Origin
+        * Merge
+        * inheritance
+        * specificity
+            * style => style="..."
+            * id => #id{}
+            * class, pseudo-class, atributes => .class{}, :pseudo{}
+            * element => p{}
+            * !important
+    
+
             
     
 
