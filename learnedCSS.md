@@ -18,7 +18,35 @@
         * Id (#idName)
         * grouping selectors (use , to separate selectors)
             * element, .class, #id
-            
+    * Combining Selectors
+        * element.className
+        * element.#idName
+    * Child Selector
+        * selector > selector
+        * article > p {}
+    * Descendant Selector
+        * selector selector
+            * article p{}
+    * examples
+        * all with class="highlight"
+            * .highlight{}
+        * all p with class="highlight"
+            * p.highlight{}
+        * all elements with class="highlight" as well as with class="mainpoint"
+            * .highlight.mainpoint{}
+        * any article element which is a direct child of a section element.
+            * section > article{}
+        * any h2 element which is a direct child of a section element
+            * section > h2
+        * all li elements that are inside a section element
+            * section li
+        
+    
+
+
+
+
+
     
 
 
