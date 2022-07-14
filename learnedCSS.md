@@ -55,6 +55,12 @@
                     * :nth-child(even)
             * Combining pseudo-element
                 * div:nth-child(4):hover{}
+    * Style Placement
+        * inline-styles
+        * internal
+        * external
+            * < link rel="stylesheet" href="">
+            
             
     
 
