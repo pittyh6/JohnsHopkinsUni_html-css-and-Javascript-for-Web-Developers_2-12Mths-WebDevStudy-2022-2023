@@ -70,6 +70,28 @@
             * class, pseudo-class, atributes => .class{}, :pseudo{}
             * element => p{}
             * !important
+    * Styling Text
+        * font-family:
+        * color: 
+            * #0000ff'
+            * blue
+            * rgba(255,0,0,0.3)
+        * font-style:
+        * font-height: 
+        * font-size:
+            * px
+            * %
+            * em
+            * rem
+        * text-transform:
+            * capitalize
+            * lowercase
+            * uppercase
+        * text-align
+            * center
+            * right, left...
+        
+
     
 
             
