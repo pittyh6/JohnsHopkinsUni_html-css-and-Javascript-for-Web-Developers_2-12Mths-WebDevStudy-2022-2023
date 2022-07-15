@@ -111,7 +111,12 @@
         * float: right/right
         * clear: left/right/both
         * 
-    
+    * Relative and Absolute Element Positioning
+        * static = default position
+        * top, right, bottom, left
+            * relative =position relative to the normal document flow
+            * absolute position
+            
 
             
     
