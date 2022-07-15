@@ -92,8 +92,14 @@
             * right, left...
     * The Box Model
         * margin
+            * accumulative
+                * horizontal = yes
+                * vertical = no // the biggest win.
         * border
         * padding
+        * * selector
+            * *{box-sizing: border-box}
+        
         
 
     
