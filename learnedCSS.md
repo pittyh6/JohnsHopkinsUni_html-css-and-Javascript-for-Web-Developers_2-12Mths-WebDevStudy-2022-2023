@@ -99,6 +99,7 @@
         * padding
         * * selector
             * *{box-sizing: border-box}
+        * overflow //barra de rolagem
         
         
 
