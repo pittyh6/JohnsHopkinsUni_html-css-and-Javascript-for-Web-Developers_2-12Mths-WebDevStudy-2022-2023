@@ -107,9 +107,10 @@
         * background-position: 1position 2position
             * background-position: top right
         * background: url("..") no-repeat right center blue //when use background: you can add a bunch of value fot the element
-        
-        
-
+    * Positioning Elements by Floating
+        * float: right/right
+        * clear: left/right/both
+        * 
     
 
             
