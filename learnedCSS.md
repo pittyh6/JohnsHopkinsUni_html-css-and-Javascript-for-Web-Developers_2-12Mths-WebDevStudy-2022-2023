@@ -100,6 +100,13 @@
         * * selector
             * *{box-sizing: border-box}
         * overflow //barra de rolagem
+    * The Background Property
+        * background-color:
+        * background-image: url("....")
+        * background-repeat: 
+        * background-position: 1position 2position
+            * background-position: top right
+        * background: url("..") no-repeat right center blue //when use background: you can add a bunch of value fot the element
         
         
 
