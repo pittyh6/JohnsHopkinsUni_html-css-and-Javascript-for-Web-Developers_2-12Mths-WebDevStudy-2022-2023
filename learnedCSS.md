@@ -90,6 +90,10 @@
         * text-align
             * center
             * right, left...
+    * The Box Model
+        * margin
+        * border
+        * padding
         
 
     
