@@ -116,7 +116,12 @@
         * top, right, bottom, left
             * relative =position relative to the normal document flow
             * absolute position
-            
+        *   Details of positioning
+            static positioning is default for all elements, except html.Html actually has it's positioning set to relative.
+            Relative positioning offsets the element relative to it's normal documentflow position.And the normal document flow is not affected what soever, by moving or offsetting the relative position element.
+            Absolute positioning is relative to it's closest ancestor which has positioning set to a non-static value, which is either absolute or relative.The important thing to remember about absolute positioning is that the element is taken out of it's normal document flow.And the rest of the elements basically behave as if that element doesn't exist.
+            Also you saw, offsetting the relative container element offsets its contents as well, which gives you great flexibility to move around a whole set of elements and not just one.
+
 
             
     
