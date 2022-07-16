@@ -143,6 +143,11 @@
             * mobile first 
                 * plan mobile from the start
             * too big, too bloated
+        * links
+            * bootstrap.min.css
+            * jquery
+            * bootstrap.min.js
+            * javascript
 
 
 
