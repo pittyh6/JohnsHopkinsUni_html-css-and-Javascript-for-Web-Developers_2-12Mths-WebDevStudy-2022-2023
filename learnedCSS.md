@@ -135,7 +135,8 @@
     * Responsive Design
         * Grid => 12 column Grid Responsive
             * nested-layout => 12 column Grid
-        
+        * to make the browser understand that do not ned to give a zoon -. To understand that it is to accept the mobile layout
+            * < meta name="viewport" content="width=device-width, initial-scale=1"> VERY IMPORTANT
 
 
 
