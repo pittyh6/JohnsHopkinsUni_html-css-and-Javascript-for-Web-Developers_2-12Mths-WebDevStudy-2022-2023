@@ -142,7 +142,7 @@
             * framework -> html, css, javaScript, javascript
             * mobile first 
                 * plan mobile from the start
-            
+            * too big, too bloated
 
 
 
