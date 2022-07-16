@@ -148,6 +148,13 @@
             * jquery
             * bootstrap.min.js
             * javascript
+    * The Bootstrap Grid System
+        * container / container-fluid
+        * .row
+        * .col-size-span => . col-md-4
+            * size => sm / md / lg
+            * Span => from 1 to 12
+        
 
 
 
