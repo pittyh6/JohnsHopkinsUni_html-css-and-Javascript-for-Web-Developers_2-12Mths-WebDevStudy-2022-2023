@@ -144,6 +144,7 @@
                 * plan mobile from the start
             * too big, too bloated
         * links
+            * < meta name="viewport" content="width=device-width, initial-scale=1">
             * bootstrap.min.css
             * jquery
             * bootstrap.min.js
