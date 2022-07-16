@@ -132,7 +132,10 @@
                 * @media (min-width: 768px) and (max-width: 991px){...}
             * , => OR 
                 * @media (min-width: 768px) , (max-width: 991){...}
-    
+    * Responsive Design
+        * Grid => 12 column Grid Responsive
+            * nested-layout => 12 column Grid
+        
 
 
 
