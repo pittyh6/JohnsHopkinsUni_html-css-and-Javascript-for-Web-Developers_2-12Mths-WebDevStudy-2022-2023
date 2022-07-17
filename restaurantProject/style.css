@@ -6,3 +6,15 @@ body{
     font-family: 'Oxygen', sans-serif;
     font-size:16px;
 }
+#header-nav{
+    background-color:#f6b319;
+    border: 0;
+    border-radius: 0;
+}
+#logo-img{
+    background: url("img/restaurant-logo_large.jpeg") no-repeat;
+    height: 150px;
+    width: 150px;
+    margin: 10px 15px 10p 0;
+    border-radius: 25%;
+}
