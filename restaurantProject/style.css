@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
 
 body{
     background-color:#61122f;
@@ -12,9 +13,42 @@ body{
     border-radius: 0;
 }
 #logo-img{
-    background: url("img/restaurant-logo_large.jpeg") no-repeat;
-    height: 150px;
-    width: 150px;
-    margin: 10px 15px 10p 0;
+    background: url("img/restaurant-logo_large.png") no-repeat;
     border-radius: 25%;
+    margin: 10px 15px 10px 0;
+    width: 110px;
+    height: 110px;
+}
+.star-k{
+    height: 50px;
+    width: 40px;
+}
+.pull-left{
+    float: left;
+}
+.navbar-brand{
+    padding-top: 25px;
+}
+.navbar-brand h1{
+    color: #557c3e;
+    font-family: 'Lora', serif;
+    font-size:1.5em;
+    font-weight: bold;
+    line-height: .75;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-shadow: 1px 1px 1px #222;    
+    text-transform: uppercase;    
+}
+.navbar-brand a, .navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+}
+.navbar-brand p{
+    color: #000;
+    font-size: .7em;
+    margin-top:15px;
+    text-transform: uppercase;
+}
+.navbar-brand p span{
+    vertical-align: middle;
 }
