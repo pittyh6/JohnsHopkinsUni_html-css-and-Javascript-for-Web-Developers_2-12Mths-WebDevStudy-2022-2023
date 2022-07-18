@@ -54,3 +54,31 @@ body{
 .navbar-brand p span{
     vertical-align: middle;
 }
+.collapse:not(.show){
+    display: flex;
+}
+#nav-list{
+    margin-top:1px
+}
+#nav-list a{
+    color:#951c49;
+    text-align: center;
+}
+#nav-list a:hover{
+    background: #e7e7e7;
+}
+#nav-list a span{
+    font-size: 1.8em;
+}
+#phone{
+    margin-top: 5px;
+}
+#phone a{
+    text-align: right;
+    padding-bottom: 0;
+}
+#phone div{
+    color: #557c3e;
+    text-align: right;
+    padding-right: 15px;
+}
