@@ -25,6 +25,8 @@ body{
 }
 .pull-left{
     float: left;
+}.pull-right{
+    float: right;
 }
 .navbar-brand{
     padding-top: 25px;
