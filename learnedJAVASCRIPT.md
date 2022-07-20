@@ -12,6 +12,13 @@
         * add functionality to the page
     * internal javaScript < script></ script>
     * external JavaScript < script src="" ></ script>
-
+    * var => variable
+    * function
+        * function nameFunction(){...}
+        * var a = function (){...}
+        * invoke a function
+            * functioName();
+        * defined arguments
+            * function compare(x,y){ return }
 
 ![End Banner](/Documentation/botton-1200x350.gif)
