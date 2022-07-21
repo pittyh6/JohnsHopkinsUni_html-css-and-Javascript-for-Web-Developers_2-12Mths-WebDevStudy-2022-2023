@@ -42,7 +42,11 @@
             * = add value
             * == accept number ou string. 4 == "4" yes
             * === strict equality
-        
+        * boolean validation (if/else)
+            * false
+                * false || null || undefined || "" || 0 || NaN
+            * true
+                * true && "hello" && 1 && -1 && "false"
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
