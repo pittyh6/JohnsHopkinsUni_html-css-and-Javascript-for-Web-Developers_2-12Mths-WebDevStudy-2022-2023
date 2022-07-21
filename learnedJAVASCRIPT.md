@@ -49,7 +49,8 @@
                 * true && "hello" && 1 && -1 && "false"
         * best practice {}
         * for loop
-
+    * Handling Default Values
+        
 
 
 
