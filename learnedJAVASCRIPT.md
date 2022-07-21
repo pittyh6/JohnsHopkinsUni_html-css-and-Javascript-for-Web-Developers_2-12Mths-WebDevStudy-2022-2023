@@ -52,6 +52,10 @@
     * Handling Default Values
     * Creating Objects Using 'new Object()' Syntax
     * Creating Objects Using Object Literal Syntax
+    * Functions 
+        * first class datatype
+        * are objects
+        
 
 
 
