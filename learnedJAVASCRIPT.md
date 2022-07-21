@@ -55,7 +55,9 @@
     * Functions 
         * first class datatype
         * are objects
-        
+    * Passing Variables by Value vs. by Reference
+        * Primitives are passed by values
+        * objects are passed by reference
 
 
 
