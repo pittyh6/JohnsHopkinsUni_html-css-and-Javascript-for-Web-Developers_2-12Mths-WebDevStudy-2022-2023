@@ -27,7 +27,22 @@
             * cannot change the value
             * types
                 * boolean => true/false
-                * 
+                * undefined => n value has ever been set
+                * null => lack of value
+                * string
+                * symbol
+    * Common Language Constructs
+        * concatenation 
+            * variable += variable/text
+            * variable + " text"
+        * regular operators
+            * +, -, *, /
+            * NAN
+        * equality
+            * = add value
+            * == accept number ou string. 4 == "4" yes
+            * === strict equality
+        
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
