@@ -32,7 +32,7 @@
                 * string
                 * symbol
     * Common Language Constructs
-        * concatenation 
+        * string concatenation 
             * variable += variable/text
             * variable + " text"
         * regular operators
@@ -47,6 +47,10 @@
                 * false || null || undefined || "" || 0 || NaN
             * true
                 * true && "hello" && 1 && -1 && "false"
+        * best practice {}
+        * for loop
+
+
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
