@@ -20,5 +20,14 @@
             * functioName();
         * defined arguments
             * function compare(x,y){ return }
+    * Types
+        * object => collection of name/values
+        * Primitive types 
+            * represents a single value
+            * cannot change the value
+            * types
+                * boolean => true/false
+                * 
+
 
 ![End Banner](/Documentation/botton-1200x350.gif)
