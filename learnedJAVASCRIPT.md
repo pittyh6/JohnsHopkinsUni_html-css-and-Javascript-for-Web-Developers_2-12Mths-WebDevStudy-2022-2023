@@ -72,7 +72,8 @@
         * let self = this
     * Arrays
         * collection of data
-        
+        * loop in object array
+            * for(var prop in objName){}
 
 
 
