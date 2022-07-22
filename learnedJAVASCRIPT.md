@@ -58,6 +58,16 @@
     * Passing Variables by Value vs. by Reference
         * Primitives are passed by values
         * objects are passed by reference
+    * Function Constructors, prototype, and the 'this' Keyword
+        * this
+            * this point to the global object -> window object
+        * function constructor
+            * Start with uppercase letter -> Circle, Problem,...
+            * this.
+        * prototype
+        * new
+            * cannot forget to put new when create a new object
+
 
 
 
