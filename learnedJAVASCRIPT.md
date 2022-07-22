@@ -75,7 +75,10 @@
         * loop in object array
             * for(var prop in objName){}
     * Closures
-        * 
+    * Fake Namespaces
+    * Immediately Invoked Function Expressions (IIFEs)
+        * (function(){....})(); 
+            * the last (); invoke immediately the function.runs it.
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
