@@ -74,7 +74,8 @@
         * collection of data
         * loop in object array
             * for(var prop in objName){}
-
+    * Closures
+        * 
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
