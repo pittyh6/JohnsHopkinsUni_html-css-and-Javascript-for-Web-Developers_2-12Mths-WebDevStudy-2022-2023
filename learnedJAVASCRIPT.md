@@ -70,6 +70,9 @@
     * Object Literals and the 'this' Keyword
         * when a literal object is created , this point to the actual object that was created.
         * let self = this
+    * Arrays
+        * collection of data
+        
 
 
 
