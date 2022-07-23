@@ -8,12 +8,25 @@
 ## What I learned/used 
 ### DOM
 * DOM
+    * add js file the end of html file, before </ body>    
     * window
         * document property
             * window.document
         * document.
-            * getElementById("idName")
-    * add js fleat the end of html file, before </ body>         
+            * getElementById("idName")     
+                * .value
+                * .textContent
+                * .innerHTML
+            * querySelector("")
+                * ("#idName"),(".className"), ("tagName")
+    * Handling Events
+        * html
+            * onclick="functionName();"
+            * onblur="functionName();"
+        * js
+            .addEventListener("click", functionName);   
+            .onclick = functionName;
+    
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
