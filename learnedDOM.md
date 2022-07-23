@@ -6,8 +6,14 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used 
-### JavaScript ES6 / ES2015
-
+### DOM
+* DOM
+    * window
+        * document property
+            * window.document
+        * document.
+            * getElementById("idName")
+    * add js fleat the end of html file, before </ body>         
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
