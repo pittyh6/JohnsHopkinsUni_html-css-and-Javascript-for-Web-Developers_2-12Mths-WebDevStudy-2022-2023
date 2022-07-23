@@ -14,6 +14,7 @@
 * JavaScript [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 * NPM [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedNPM.md)
 * Resources [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
+* DOM [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedDOM.md)
 <!--
 * JQuery [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedJQuery.md)
 * JavaScript ES6/ES2015 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedES6-ES2015.md)
@@ -22,7 +23,9 @@
 * (Week One) - HTML - Introduction to HTML5 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
 * (Week Two) - CSS - Introduction to CSS3 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
     * (Week Two) - CSS - Introduction to CSS3 [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/lecture21)
-
+* (Week Three) - Coding the Static Restaurant Site
+* (Week Four) - JavaScript [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/js-study/basics)
+    * (Week Four) - JavaScript [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 
 ## Previous Project
 * (1) 12Mths Web Development Study [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023)
