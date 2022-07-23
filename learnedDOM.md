@@ -26,7 +26,8 @@
         * js
             .addEventListener("click", functionName);   
             .onclick = functionName;
-    
+        * The 'event' Argument
+            
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
