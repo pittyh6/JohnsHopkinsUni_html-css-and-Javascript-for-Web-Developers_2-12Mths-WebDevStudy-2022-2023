@@ -6,7 +6,18 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used 
-### JQuery 
-
+### JSON
+* JSON
+    * JavaScript Object Notation
+    * Property names must be in double quotes
+    * String values must be in double quotes
+    * JSON is NOT a javascript object literal
+    * JSON is just a string
+    * the syntax of JSON is based on object literal though
+    * Need to convert JSON to a js object
+        * converts from json to object
+            * var obj = JSON.parse(jsonString);
+        * converts from object to JSON string
+            * var str = JSON.stringify(obj);
 
 ![End Banner](/Documentation/botton-1200x350.gif)
